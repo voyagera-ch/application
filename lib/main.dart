@@ -6,5 +6,6 @@ void main() {
   runApp(MaterialApp(
     theme: getTheme(),
     home: const MainPage(),
+    debugShowCheckedModeBanner: false,
   ));
 }
