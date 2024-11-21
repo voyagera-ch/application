@@ -1,4 +1,4 @@
-import 'package:application/screens/home.dart';
+import 'package:application/screens/travel/travel.dart';
 import 'package:application/styles/theme.dart';
 import 'package:flutter/material.dart';
 

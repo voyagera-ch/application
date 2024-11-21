@@ -1,9 +1,3 @@
-import 'package:application/screens/gallery.dart';
-import 'package:application/screens/map.dart';
-import 'package:application/screens/overview.dart';
-import 'package:application/screens/planning.dart';
-import 'package:application/styles/theme.dart';
-import 'package:flutter/material.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
